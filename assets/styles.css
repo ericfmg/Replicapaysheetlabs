@@ -1,0 +1,17 @@
+body{
+    min-height: 100vh;
+
+}
+.pslc{
+    background-color: #04544c;
+}
+
+.pslct{
+    color:#04544c  ;
+}
+.total{
+    height: 85vh;
+}
+.im{
+    max-width: 40vw;
+}
